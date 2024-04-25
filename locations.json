@@ -1,0 +1,143 @@
+{
+    "locations": [
+      {
+        "name": "Italy",
+        "plans": [
+          {
+            "name": "Explore Colosseum",
+            "price": 100,
+            "description": "Visit the iconic Colosseum in Rome and explore its rich history.",
+            "duration": "Half day",
+            "included": ["Guided tour", "Entrance fees"],
+            "optional": ["Transportation", "Meals"],
+            "difficulty": "Easy"
+          },
+          {
+            "name": "Guided Tour of Rome",
+            "price": 200,
+            "description": "Discover the beauty of Rome with a knowledgeable local guide.",
+            "duration": "Full day",
+            "included": ["Transportation", "Guide", "Entrance fees"],
+            "optional": ["Meals"],
+            "difficulty": "Moderate"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "plans": [
+          {
+            "name": "Eiffel Tower Experience",
+            "price": 150,
+            "description": "Ascend the iconic Eiffel Tower and enjoy breathtaking views of Paris.",
+            "duration": "Half day",
+            "included": ["Skip-the-line tickets"],
+            "optional": ["Transportation", "Meals"],
+            "difficulty": "Easy"
+          },
+          {
+            "name": "Wine Tasting in Bordeaux",
+            "price": 300,
+            "description": "Indulge in a luxurious wine tasting experience in the renowned Bordeaux region.",
+            "duration": "Full day",
+            "included": ["Wine tasting sessions", "Transportation"],
+            "optional": ["Meals"],
+            "difficulty": "Easy"
+          }
+        ]
+      },
+      {
+        "name": "Japan",
+        "plans": [
+          {
+            "name": "Visit Kyoto Temples",
+            "price": 120,
+            "description": "Explore the ancient temples of Kyoto and experience Japanese culture.",
+            "duration": "Full day",
+            "included": ["Guided tour", "Entrance fees"],
+            "optional": ["Transportation", "Meals"],
+            "difficulty": "Moderate"
+          },
+          {
+            "name": "Tokyo City Tour",
+            "price": 250,
+            "description": "Discover the vibrant city of Tokyo with a guided tour of its famous landmarks.",
+            "duration": "Full day",
+            "included": ["Transportation", "Guide"],
+            "optional": ["Meals"],
+            "difficulty": "Moderate"
+          }
+        ]
+      },
+      {
+        "name": "Australia",
+        "plans": [
+          {
+            "name": "Great Barrier Reef Snorkeling",
+            "price": 300,
+            "description": "Explore the stunning underwater world of the Great Barrier Reef with a snorkeling adventure.",
+            "duration": "Full day",
+            "included": ["Snorkeling gear", "Lunch"],
+            "optional": ["Transportation"],
+            "difficulty": "Moderate"
+          },
+          {
+            "name": "Sydney Opera House Tour",
+            "price": 150,
+            "description": "Take a guided tour of the iconic Sydney Opera House and learn about its architecture and history.",
+            "duration": "Half day",
+            "included": ["Guided tour"],
+            "optional": ["Transportation", "Meals"],
+            "difficulty": "Easy"
+          }
+        ]
+      },
+      {
+        "name": "Thailand",
+        "plans": [
+          {
+            "name": "Bangkok City Tour",
+            "price": 100,
+            "description": "Experience the bustling city of Bangkok with a guided tour of its temples and markets.",
+            "duration": "Full day",
+            "included": ["Transportation", "Guide"],
+            "optional": ["Meals"],
+            "difficulty": "Easy"
+          },
+          {
+            "name": "Phi Phi Islands Cruise",
+            "price": 200,
+            "description": "Sail through the crystal-clear waters of the Phi Phi Islands and relax on pristine beaches.",
+            "duration": "Full day",
+            "included": ["Cruise", "Lunch"],
+            "optional": ["Transportation"],
+            "difficulty": "Easy"
+          }
+        ]
+      },
+      {
+        "name": "United States",
+        "plans": [
+          {
+            "name": "Grand Canyon Helicopter Tour",
+            "price": 400,
+            "description": "Soar above the majestic Grand Canyon in a thrilling helicopter tour.",
+            "duration": "Half day",
+            "included": ["Helicopter ride", "Tour guide"],
+            "optional": ["Transportation", "Meals"],
+            "difficulty": "Moderate"
+          },
+          {
+            "name": "New York City Broadway Show",
+            "price": 250,
+            "description": "Experience the magic of Broadway with tickets to a popular show in New York City.",
+            "duration": "Evening",
+            "included": ["Show tickets"],
+            "optional": ["Transportation", "Dinner"],
+            "difficulty": "Easy"
+          }
+        ]
+      }
+    ]
+  }
+  
